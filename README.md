@@ -74,7 +74,7 @@ We are building the future of African Tech. Join us.
 * **Email**: [meertechnology01@gmail.com](mailto:meertechnology01@gmail.com)
 * **Founder**: [Mahmud Sani Madobi (LinkedIn)](https://www.linkedin.com/in/mahmud-madobi-988ba31ab)
 * **Website**: [meertech.tech](https://meertech.tech)
-* **GitHub**: [@Meertechnology](https://github.com/Meertechnology)
+* **GitHub**: [@Meertechnology](https://github.com/MEERTECHLTD)
 
 ---
 <div align="center">
